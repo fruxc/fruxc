@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Hammad Ansari!](https://github.com/fruxc/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fruxc)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/h4mm4d)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fruxc_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fruxc/)
 
@@ -15,22 +15,23 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with JavaScript React, Node.js, Express.js, <br /> Mongodb, Docker, etc.
+- 🛠 &nbsp; I’m currently working with JavaScript React, Node.js, Express.js, <br /> MongoDB, Docker, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack and DevOps Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fruxc).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: 018 minus 022 equal to 0.
 - 📫 &nbsp; How to reach me: hammadansari17@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/fruxc/fruxc/blob/master/resume.pdf).
 
 ### My Stack and would love to explore:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="css3"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img height="25" src="
 https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></code>
