@@ -28,14 +28,14 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="python"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"></code>
 
 ### Projects and Dev Stuffs:
 
