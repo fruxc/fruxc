@@ -34,8 +34,8 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react"></code>
 
 ### Projects and Dev Stuffs:
 
