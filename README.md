@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/h4mm4d)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fruxc_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fruxc/)
+[![Instagram Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=Snapchat&logoColor=white)](https://instagram.com/fruxc/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fruxc.fruxc&style=flat-square&color=0088cc)
 
@@ -54,8 +55,8 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vs"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"></code>
-<code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue"></code>
 <br/>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue"></code>
 
 ### Projects and Dev Stuffs:
 
