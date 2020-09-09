@@ -19,7 +19,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 - 🚀 &nbsp; I’m currently learning Full Stack and DevOps Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fruxc).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues)! I am happy to help.
-- 👾 &nbsp; Fun fact: 018 minus 022 equal to 0.
+- 👾 &nbsp; Fun fact: 018 minus 022 equal to 0 in JavaScript.
 - 📫 &nbsp; How to reach me: hammadansari17@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/fruxc/fruxc/blob/master/resume.pdf).
 
@@ -30,8 +30,10 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
+<code><img height="25" src="
+https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img height="25" src="
 https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></code>
@@ -52,7 +54,7 @@ https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></co
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04.1</li>
+  	    <li><b>OS:</b> Windows 10</li>
   	    <li><b>Browser</b> Chrome </li>
 	    <li><b>Code Editor:</b> Visual Studio Code </li>
 	    <br />
