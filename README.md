@@ -44,13 +44,10 @@ https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></co
 
 ### Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<b>⚡ Github Stats</b>
 
-<img alt="" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&show_icons=true&theme=radical)
-" />
-</details>
- 
+![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&show_icons=true&theme=radical)
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
