@@ -28,21 +28,14 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="python"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"></code>
-<code><img height="25" src="
-https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="github"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
-<code><img height="25" src="
-https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></code>
+<code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:
 
