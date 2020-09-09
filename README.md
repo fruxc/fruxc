@@ -47,7 +47,8 @@ https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="express"></co
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=fruxc&show_icons=true&hide_border=true" />
+<img alt="" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&show_icons=true&theme=radical)
+" />
 </details>
  
 <details>	
