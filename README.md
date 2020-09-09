@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Pavan Gandhi!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Hammad Ansari!](https://github.com/iampavangandhi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fruxc)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fruxc_)
