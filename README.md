@@ -15,7 +15,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with JavaScript React, Node.js, Express.js, <br /> MongoDB, Docker, etc.
+- 🛠 &nbsp; I’m currently working with JavaScript, React, Node.js, Express.js, <br /> MongoDB, Docker, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack and DevOps Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fruxc).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues)! I am happy to help.
@@ -23,34 +23,39 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 - 📫 &nbsp; How to reach me: hammadansari17@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/fruxc/fruxc/blob/master/resume.pdf).
 
-### My Stack and would love to explore:
+### My Stacks and would love to explore:
 
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="c#"></code>
+<br/>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain.svg" alt="laravel"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker"></code>
+<br/>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/codeigniter/codeigniter-plain.svg" alt="react"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="go"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>
+<br/>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="oracle"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/redhat/redhat-original.svg" alt="RedHat"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack"></code>
+<br/>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vs"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"></code>
 <code><img height="25" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue"></code>
+<br/>
 
 ### Projects and Dev Stuffs:
 
