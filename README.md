@@ -4,7 +4,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-0d141e?style=flat-square&logo=HackerRank&logoColor=white)](https://linkedin.com/in/h4mm4d)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fruxc_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-3f729b?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fruxc/)
-[![Snapchat Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=Snapchat&logoColor=white)](https://snapchat.com/fruxc/)
+[![Snapchat Badge](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-square&logo=Snapchat&logoColor=white)](https://snapchat.com/add/fruxc/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fruxc.fruxc&style=flat-square&color=0088cc)
 
