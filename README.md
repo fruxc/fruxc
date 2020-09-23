@@ -59,13 +59,14 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 ### Projects and Dev Stuffs:
 
-<b> Trophies </b>
+<b> 🔥 Trophies </b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fruxc)](https://github.com/fruxc/fruxc)
 
-<b> Most Languages Used</b>
+<b> 🔥 Most Languages Used</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruxc)](https://github.com/fruxc/fruxc)
+
 <b>⚡ Github Stats</b>
 
 ![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&show_icons=true&theme=radical)
