@@ -73,7 +73,8 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 ![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&hide=contribs,prs,stars,issues&show_icons=true&theme=buefy)
 
 <b> Weekly Stats</b>
-[![fruxc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/fruxc/fruxc)
+
+[![fruxc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fruxc)](https://github.com/fruxc/fruxc)
 
 
 <details>	
