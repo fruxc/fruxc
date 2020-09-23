@@ -65,7 +65,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 <b> 💣 Most Languages Used</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruxc&hide=jupyternotebook)](https://github.com/fruxc/fruxc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruxc&hide=jupyternotebook&langs_count=10&layout=compact)](https://github.com/fruxc/fruxc)
 
 <b>⚡ Github Stats</b>
 
