@@ -63,7 +63,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fruxc)](https://github.com/fruxc/fruxc)
 
-<b> 🔥 Most Languages Used</b>
+<b> 💣 Most Languages Used</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fruxc)](https://github.com/fruxc/fruxc)
 
