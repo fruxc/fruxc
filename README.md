@@ -70,7 +70,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 <b>⚡ Github Stats</b>
 
-![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&hide=contribs,prs&show_icons=true&theme=buefy)
+![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&hide=contribs,prs,starts,issues&show_icons=true&theme=buefy)
 
 <b> Weekly Stats</b>
 [![fruxc's weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=fruxc)](https://github.com/fruxc/fruxc)
