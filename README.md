@@ -74,7 +74,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 
 <b> Weekly Stats</b>
 
-[![fruxc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fruxc)](https://github.com/fruxc/fruxc)
+[![fruxc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/fruxc/fruxc)
 
 
 <details>	
