@@ -60,7 +60,8 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 ### Projects and Dev Stuffs:
 
 <b> Trophies </b>
-[![trophy](https://github-profile-trophy.vercel.app/?username=fruxc)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fruxc)](https://github.com/fruxc/fruxc)
 
 <b> Most Languages Used</b>
 
