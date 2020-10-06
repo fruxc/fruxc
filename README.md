@@ -18,7 +18,7 @@ I'm a final year student pursuing Masters of Computer Applications 🎓 from Sar
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with JavaScript, React, Node.js, Express.js, <br /> MongoDB, Docker, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack and DevOps Development.
+- 🚀 &nbsp; I’m currently learning Full Stack and DevOps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fruxc?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: 018 minus 022 equal to 0 in JavaScript.
