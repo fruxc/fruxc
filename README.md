@@ -8,20 +8,20 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> 
 
 
-I'm a final year student pursuing Masters of Computer Applications 🎓 from Sardar Patel Institute of Technology 🏛.
+I've completed Masters of Computer Applications 🎓 from Sardar Patel Institute of Technology 🏛.
 
 <br/> I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
-<br/> I love to explore new technologies and leverage them to solve real-life problems ✨, apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+<br/> I love to explore new technologies and leverage them to solve real-life problems ✨, apart from that I also love to playing Video Games🏻‍💻.
 
-<br/> I'm currently into Full Stack and DevOps Engineering 🕸️ and as always working on my Data Structures and Algorithms 🤓.
+<br/> I'm currently into Full Stack and DevOps Engineering 🕸️ and as always working on my Data Structures and Algorithms.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/fruxc/fruxc/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with JavaScript, React, Node.js, Express.js, <br /> MongoDB, Docker, etc.
+- 🛠 &nbsp; I’m currently working with JavaScript, React, Node.js, Express.js, <br /> MongoDB, Docker, Kubernates, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fruxc?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/fruxc/fruxc/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: 018 minus 022 equal to 0 in JavaScript.
