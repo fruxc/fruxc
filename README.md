@@ -76,10 +76,6 @@ I've completed Masters of Computer Applications 🎓 from Sardar Patel Institute
 
 ![Hammad's github stats](https://github-readme-stats.vercel.app/api?username=fruxc&hide=contribs,prs,stars,issues&show_icons=true&theme=buefy)
 
-<b> Github Wakatime</b>
-
-[![fruxc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fruxc&layout=compact)](https://github.com/fruxc/fruxc)
-
 
 
 <details>	
